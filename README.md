@@ -28,7 +28,7 @@ git clone https://github.com/UXLAB-OULU/AITY-AI-Agent-for-Text-Analysis-
 2. Enter the source directory:
 
 ```
-cd AI-Agent-for-text-analysis
+cd AITY-AI-Agent-for-text-analysis-
 cd src
 ```
 
