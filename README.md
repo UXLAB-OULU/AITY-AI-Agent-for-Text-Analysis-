@@ -1,6 +1,6 @@
 # AITY
 AITY stands for **AI Agent for Text Analysis**.
-It is an R&D Project directed and produced by Dorina Rajanen and Mikko Rajanen at University of Oulu, UX Lab.
+It is an R&D Project directed and produced by Dorina Rajanen and Mikko Rajanen at University of Oulu, INTERACT Research Group, UX Lab.
 
 ## Contributors:
 Sultan Alshehry, Ngbede Linus, Timo Pihlava, Elina Ronkainen, Vilma Santamäki, Jessica Sivonen (2026 Bachelor’s Project course)
